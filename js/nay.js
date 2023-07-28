@@ -1,29 +1,39 @@
+// '
+const blakTea = "tea tea tea";
+console.log(blakTea);
 
-const message = 'some string at lesson for test';
+const LOGIN_SUCCESS_MESSAGE = "Ласкаво просимо!";
 
-console.log(message.length)
+const yearOfBirth = 2006;
+console.log(yearOfBirth);
+// '
 
-console.log(message.toUpperCase())
+// const message = 'some string at lesson for test';
 
-const a = 3;
+// console.log(message.length)
 
-console.log(a)
+// console.log(message.toUpperCase())
 
-const are = 12;
+// const a = 3;
 
-let city = "lviv";
+// console.log(a)
 
-console.log(city)
+// const are = 12;
 
-city = 'kyiv' ;
+// let city = "lviv";
 
-console.log(city)
+// console.log(city)
 
-city = 'kharkiv' ;
+// city = 'kyiv' ;
 
-console.log(city)
+// console.log(city)
 
-var fistName = 'kiril';
+// city = 'kharkiv' ;
+
+// console.log(city)
+
+// var fistName = 'kiril';
+
 
 // 0 || '12' || null || true;
 
